@@ -3,7 +3,7 @@ Object-level dynamic SLAM method based on a quadric surface
 
 ## System Flow Chart 
 
-![](D:\OneDrive\Desktop\小论文\实验图片\Objecct-SLAM\img\system.png)
+![](https://github.com/lsg0103/Objecct-SLAM/blob/main/img/system.png)
 
 ## Dynamic object track
 
