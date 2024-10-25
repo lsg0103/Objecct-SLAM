@@ -10,15 +10,15 @@
 
 ## Dynamic object track
 
-### Placing_No_Box
+### Placing_No_Box  
 
-![](https://github.com/lsg0103/Objecct-SLAM/blob/main/img/Dynamic%20object%20track.png?raw=true)
+![](img/placing_no_box.png)
+
+
 
 ### Compared with OA-SLAM, Removing _No_Box
 
-
-
-![Removin_No_Box](D:\OneDrive\Desktop\小论文\实验图片\Objecct-SLAM\img\Removin_No_Box.png)
+![Removin_No_Box](img/Removin_No_Box.png)
 
 ## Dense map
 
@@ -30,8 +30,8 @@
 
 ## Real Scene - Sequence 02
 
-![Car](D:\OneDrive\Desktop\小论文\实验图片\Objecct-SLAM\img\Car.png)
+![Car](img/Car.png)
 
 ### loop closure
 
-![loop closure](D:\OneDrive\Desktop\小论文\实验图片\Objecct-SLAM\img\loop closure.png)
+![loop closure](img/loop closure.png)
