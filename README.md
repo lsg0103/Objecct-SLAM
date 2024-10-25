@@ -32,6 +32,3 @@
 
 ![Car](img/Car.png)
 
-### loop closure
-
-![loop closure](img/loop closure.png)
